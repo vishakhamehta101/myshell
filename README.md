@@ -39,7 +39,7 @@ myshell> exit
 You need a C compiler (`gcc` or `clang`) and `make`, on Linux or macOS.
 
 ```bash
-git clone https://github.com/<your-username>/myshell.git
+git clone https://github.com/vishakhamehta101/myshell.git
 cd myshell
 make
 ./myshell
