@@ -1,0 +1,14 @@
+# Build output
+myshell
+*.o
+*.out
+*.dSYM/
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Files created while testing redirection
+*.txt
